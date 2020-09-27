@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lista de tarefas</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="salvar">Salvar</string>
+</resources>
